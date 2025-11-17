@@ -1,0 +1,12 @@
+{
+    "BOT_TOKEN": "enter your bot token here",
+    "OWNER_IDS": [
+        
+    ],
+    "API_ID": 99,
+    "API_HASH": "enter your api hash here",
+    "ADMIN_IDS": [
+        
+        
+    ]
+}

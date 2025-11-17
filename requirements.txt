@@ -1,0 +1,11 @@
+# Main dependencies
+python-telegram-bot==20.7
+telethon==1.28.5
+
+# Additional dependencies that might be needed
+cryptg>=0.2.post0
+pyaes>=1.6.1
+rsa>=4.0
+
+# Standard library modules (no need to install)
+# asyncio, logging, json, os, threading, queue, time, zipfile, tempfile, shutil, typing are built-in
